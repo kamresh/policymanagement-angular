@@ -1,0 +1,55 @@
+
+header{
+    background-color: darkcyan !important;
+}
+
+body{
+    font-family: 'Merriweather', serif !important;
+    font-size: 22px;
+    
+  }
+
+.navbar-nav{
+    margin-top: 1vw;
+    margin-right: 15vw;
+
+}
+
+.nav-item.active a.nav-link{
+    color: #ffff !important;
+}
+
+
+a.nav-link{
+    color: aliceblue !important;
+}
+
+a.navbar-brand{
+    color: aliceblue !important;
+}
+
+.footer-section{
+    
+    background-color: cadetblue;
+    margin-bottom: 0;
+    border-top: 2px solid coral;
+    color: #ffff;
+    
+    
+}
+
+
+thead {
+    color: #337AB7;
+    background-color: antiquewhite;
+    
+  }
+
+ .table {
+    margin-top: 35px !important;
+     width: 50vw;
+ } 
+
+ .label {
+     color: black solid 2px;
+ }
